@@ -1,0 +1,34 @@
+﻿一
+
+1.False : Base-class constructors are inherited by derived classes. 
+2.False : An has-a relationship is implemented via composition. 
+3.False :A Student class has a has-a relationship with the Faculty and Course classes. 
+4.True 
+5.True
+
+二
+
+students:(1.)student ID (2.)study (3.)degree (4.)major
+
+1. graduate:(1.)grad-school (2.)research
+
+     1.master:(1.)碩士(精深)
+    
+         1.學士後碩士學位
+
+         2.商業或管理學碩士學位
+
+         3.高階主管在職進修碩士學位
+  
+     2.doctoral:(1.)博士(學位中最高的一級)
+
+
+2. undergraduate:(1.)during school
+
+        1.FRESHMAN:(1.)大一(最基礎)
+
+  	  2.SOPHOMORE:(1.)大二(普通)
+
+	  3.JUNIOR:(1.)大三(進階)
+
+	  4.SENIOR:(1.)大四(難)
